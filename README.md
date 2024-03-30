@@ -1,2 +1,2 @@
 # course_stepik_DS
-Старт в Data Science! https://stepik.org/course/194633/syllabus
+Складываю сюда ДЗ курса [Старт в Data Science!](https://stepik.org/course/194633/info) на Stepik.
